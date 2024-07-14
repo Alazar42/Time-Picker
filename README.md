@@ -27,7 +27,7 @@ This is a simple React Native application built using Expo, showcasing a date an
 
 1. Press the "Show date picker!" button to display the date picker.
 
-![image](https://github.com/user-attachments/assets/4a6cbeda-5c19-4ac7-9708-9c8f08e0a572)
+![image](https://github.com/user-attachments/assets/3751508a-1a39-4b9b-b248-f54ef4a8453e)
 
 2. Press the "Show time picker!" button to display the time picker.
 
