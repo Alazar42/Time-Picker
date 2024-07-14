@@ -12,26 +12,30 @@ This is a simple React Native application built using Expo, showcasing a date an
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/expo-react-native-date-picker-app.git
+   git clone https://github.com/Alazar42/Time-Picker.git
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd expo-react-native-date-picker-app
-   ```
-3. Install the dependencies:
+2. Install the dependencies:
    ```sh
    npm install
    ```
-4. Start the Expo development server:
+3. Start the Expo development server:
    ```sh
-   npm start
+   npx expo start
    ```
 
 ### Usage
 
 1. Press the "Show date picker!" button to display the date picker.
+
+![image](https://github.com/user-attachments/assets/4a6cbeda-5c19-4ac7-9708-9c8f08e0a572)
+
 2. Press the "Show time picker!" button to display the time picker.
+
+![image](https://github.com/user-attachments/assets/b21e1fb2-b3bf-46e3-886f-ece9cc907a6b)
+
 3. The selected date and time will be displayed on the screen.
+
+![image](https://github.com/user-attachments/assets/98656df7-9497-4db5-afad-028bfe0f3dcf)
 
 ### License
 
