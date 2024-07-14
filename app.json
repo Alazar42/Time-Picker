@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/main_logo.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.milkeybear14.TimePicker"
     },
     "web": {
       "bundler": "metro",
